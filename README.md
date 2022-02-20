@@ -3,6 +3,11 @@ REST which stands for Representational State Transfer, is an architectural style
 
 In this Project, I have used Node, Express and MongoDB to create a REST API that would support the four operations — GET, POST, PATCH and DELETE.
 
+1. GET — GET means to read the data. The function of this operation is to retrieve the data from the database and present it to the user.
+2. POST — POST, as the name suggests, is used to post/add new data to the database. It allows users to add new data to the database.
+3. PATCH — PATCH means to update the data already present in the database.
+4. DELETE — It is used to delete any existing data from the database.
+
 I have further tested the API using the application Postman. The test output screenshots can be found in the **Output Screenshots** Directory.
 
 ## Requirements/Set-up
