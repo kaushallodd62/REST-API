@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Package that contains modules for creating a REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaushallodd62/REST-API.git"
+  },
+  "author": "Kaushal Lodd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushallodd62/REST-API/issues"
+  },
+  "homepage": "https://github.com/kaushallodd62/REST-API#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
